@@ -29,7 +29,7 @@ function setup(){
 function draw(){
     background(0);
 
-    t = t + 0.04
+    t = t + 0.03
 
    //p.x = x0 + r* cos(t)* noise(t);
     //p.y = y0 + r* sin(t)* noise(t);
