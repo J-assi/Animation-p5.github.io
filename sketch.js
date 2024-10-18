@@ -1,5 +1,5 @@
 console.log("OK")
-let cellSize = 100;
+let cellSize = 70;
 //let p;
 //let y0;
 //let x0;
@@ -9,7 +9,7 @@ let N_cols;
 let N_rows;
 
 function setup(){
-    createCanvas(1080, 1920);
+    createCanvas(400, 400);
     //x0 = noise(1)* width;
     //y0 = noise(1)* height;
     //p = createVector(x0, y0);
