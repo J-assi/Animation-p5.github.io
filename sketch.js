@@ -9,7 +9,7 @@ let N_cols;
 let N_rows;
 
 function setup(){
-    createCanvas(400, 400);
+    createCanvas(400, 800);
     //x0 = noise(1)* width;
     //y0 = noise(1)* height;
     //p = createVector(x0, y0);
